@@ -1,6 +1,6 @@
 name: woodwater media
 favicon: null
-layout_spectrum: 0.11288
+layout_spectrum: 0.21879
 typography_spectrum: 0.16525
 title: 'go on, tell your story. . .'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#d6d6d6'
     - '#010109'
     - '#979797'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 1
   saturation: 0.25
   rhythmicContrast: 0
