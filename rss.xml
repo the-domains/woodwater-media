@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[go on, tell your story. . .]]></title>
         <description><![CDATA[go on, tell your story. . .]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/woodwater-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 02:19:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 02:42:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/woodwater-media/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/448dabb6-73ab-4345-998a-846596e5dbc8.jpg">]]></description>
+            <link>https://thegrid.ai/woodwater-media/5f41b11c-5b74-465e-ac88-3725115dd621/index.html</link>
+            <guid isPermaLink="false">5f41b11c-5b74-465e-ac88-3725115dd621</guid>
+            <pubDate>Tue, 26 Jan 2016 02:40:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d90f54bd-f533-420f-83e7-8fa37371329a.jpg">]]></description>
-            <link>undefined9dc821ed-1f45-4739-9239-3eb768d46116/index.html</link>
+            <link>https://thegrid.ai/woodwater-media/9dc821ed-1f45-4739-9239-3eb768d46116/index.html</link>
             <guid isPermaLink="false">9dc821ed-1f45-4739-9239-3eb768d46116</guid>
             <pubDate>Tue, 26 Jan 2016 02:19:44 GMT</pubDate>
         </item>
